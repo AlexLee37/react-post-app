@@ -1,0 +1,7 @@
+.MyButton {
+    padding: 5px 15px;
+    color: rgb(32, 117, 109);
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid turquoise;
+}
